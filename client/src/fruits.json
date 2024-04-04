@@ -1,26 +1,26 @@
 [
     {
-        "src": "/fruits/apple.svg",
+        "src": "/fruits/py.png",
         "matched": false
     },
     {
-        "src": "/fruits/avocado.svg",
+        "src": "/fruits/rust.png",
         "matched": false
     },
     {
-        "src": "/fruits/banana.svg",
+        "src": "/fruits/js.png",
         "matched": false
     },
     {
-        "src": "/fruits/cherry.svg",
+        "src": "/fruits/c++.png",
         "matched": false
     },
     {
-        "src": "/fruits/grape.svg",
+        "src": "/fruits/react.png",
         "matched": false
     },
     {
-        "src": "/fruits/pineapple.svg",
+        "src": "/fruits/mongo.png",
         "matched": false
     }
 ]
